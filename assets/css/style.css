@@ -1,0 +1,33 @@
+
+.perfil img{
+    height: 250px;
+    width: 200px;
+    border-radius: 100%;
+    margin: 0 0 0 100px;
+    border-style: inset;
+}
+.perfil{
+    float: left;
+    width: 500px;
+    height: 950px;
+    border-right-style: inset;
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.conteudo{
+    float:right;
+    
+    
+}
+.texto{
+    margin: 100px 300px 0 200px;
+}
+.conteudo h1{
+    border-bottom-style:inset;
+    text-align: center;
+}
+.fotos img{
+    width: 300px;
+    height: 300px;
+    margin: 50px 0 0 200px;
+}
